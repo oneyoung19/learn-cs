@@ -27,4 +27,4 @@ const student = new Student({
   school: 'BeiJing University'
 })
 
-console.log(student)
+console.log(student, student.getName())

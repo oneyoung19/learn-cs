@@ -44,6 +44,8 @@
 
 ### 1-1-4.构造器模式
 
+[构造器模式](../1.creation-pattern/1-4.constructor.js)
+
 ### 1-1-5.原型模式
 
 [原型模式](../1.creation-pattern/1-5.prototype.js)

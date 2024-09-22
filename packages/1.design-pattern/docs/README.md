@@ -34,7 +34,7 @@
 
 [工厂模式](../1.creation-pattern/1-1.factory.js)
 
-### 1-1-2.
+### 1-1-2.抽象工厂模式
 
 [抽象工厂模式](../1.creation-pattern/1-2.abstract-factory.js)
 

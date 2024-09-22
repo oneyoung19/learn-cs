@@ -6,3 +6,6 @@ It includes a variety of topics such as `design pattern`, `algorithms`, `data st
 
 The materials are organized into different folders based on their respective topics.
 
+## Design Pattern
+
+[Design Pattern](./packages/1.design-pattern/docs/README.md)

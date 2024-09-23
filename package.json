@@ -4,9 +4,16 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "decorator": "babel-node ./packages/1.design-pattern/2.structural-pattern/2-2-2.decorator-class.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.25.2",
+    "@babel/node": "^7.25.0",
+    "@babel/plugin-proposal-decorators": "^7.24.7",
+    "@babel/preset-env": "^7.25.4"
+  }
 }

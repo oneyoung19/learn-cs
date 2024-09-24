@@ -1,11 +1,17 @@
 /*
 代理模式
 
-Es6 Proxy
+- [Proxy](https://es6.ruanyifeng.com/#docs/proxy)
+- [Reflect](https://es6.ruanyifeng.com/#docs/reflect)
 
 const proxy = new Proxy(target, handler)
 
+target可以是任意的对象（包括数组、函数等）。
+
+handler是一个可包含以下属性的对象：
+
 1. get(target, propKey, receiver)：拦截对象属性的读取，比如proxy.foo和proxy['foo']。
+   receiver参数就是Proxy实例
 
 2. set(target, propKey, value, receiver)：拦截对象属性的设置，比如proxy.foo = v或proxy['foo'] = v，返回一个布尔值。
 

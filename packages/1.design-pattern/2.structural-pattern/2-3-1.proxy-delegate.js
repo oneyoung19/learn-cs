@@ -1,8 +1,10 @@
 /*
 代理模式
 
-[delegates](https://www.npmjs.com/package/delegates)
-Es6 Proxy
+
+koa中利用[delegates](https://www.npmjs.com/package/delegates)实现了ctx的对象委托代理机制
+
+类似的，在Vue中也有代理机制，譬如假设有属性this.name，实际上是this.$data.name。
 */
 
 /*

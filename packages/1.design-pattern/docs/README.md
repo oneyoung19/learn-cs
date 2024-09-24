@@ -64,7 +64,9 @@
 
 ### 1-2-3.代理模式
 
-[代理模式](../2.structural-pattern/2-3.proxy.js)
+[对象委托代理](../2.structural-pattern/2-3-1.proxy-delegate.js)
+
+[Proxy](../2.structural-pattern/2-3-3.proxy-es6.js)
 
 ### 1-2-4.外观模式
 

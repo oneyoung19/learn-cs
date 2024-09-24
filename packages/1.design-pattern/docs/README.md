@@ -58,7 +58,13 @@
 
 ### 1-2-2.装饰器模式
 
+[装饰器模式之构造函数](../2.structural-pattern/2-2-1.decorator-constructor.js)
+
+[装饰器模式之类](../2.structural-pattern/2-2-2.decorator-class.js)
+
 ### 1-2-3.代理模式
+
+[代理模式](../2.structural-pattern/2-3.proxy.js)
 
 ### 1-2-4.外观模式
 

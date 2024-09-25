@@ -104,11 +104,13 @@
 
 ### 1-3-4.模板方法模式
 
-[模板方法模式](../3.behavioral-pattern/)
+[模板方法模式](../3.behavioral-pattern/3-4.template-method.js)
 
 ### 1-3-5.职责链模式
 
 ### 1-3-6.命令模式
+
+[命令模式](../3.behavioral-pattern/3-6.command.js)
 
 ### 1-3-7.备忘录模式
 

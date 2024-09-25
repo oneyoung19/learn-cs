@@ -82,9 +82,13 @@
 
 ### 1-2-7.享元模式
 
+[享元模式](../2.structural-pattern/2-7.flyweight.js)
+
 ## 1-3.行为型模式
 
 ### 1-3-1.观察者模式
+
+[观察者模式](../3.behavioral-pattern/3-1.observer.js)
 
 ### 1-3-2.迭代器模式
 

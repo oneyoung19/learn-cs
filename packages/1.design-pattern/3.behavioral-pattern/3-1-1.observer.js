@@ -9,6 +9,8 @@
 
 Subject（被观察者）：当状态发生变化时，会通知所有的观察者。
 Observer（观察者）：观察被观察者的变化，并做出相应的响应。
+
+Subject => Observer
 */
 
 class Subject {

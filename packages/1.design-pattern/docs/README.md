@@ -94,9 +94,13 @@
 
 ### 1-3-2.迭代器模式
 
-[迭代器模式](../3.behavioral-pattern/3-2.iterator.js)
+[迭代器模式](../3.behavioral-pattern/3-2-1.iterator.js)
+
+[ES6中的迭代器](../3.behavioral-pattern/3-2-2.iterator-es6.js)
 
 ### 1-3-3.策略模式
+
+[策略模式](../3.behavioral-pattern/3-3.strategy.js)
 
 ### 1-3-4.模板方法模式
 

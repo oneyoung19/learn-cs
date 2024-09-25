@@ -88,9 +88,13 @@
 
 ### 1-3-1.观察者模式
 
-[观察者模式](../3.behavioral-pattern/3-1.observer.js)
+[观察者模式](../3.behavioral-pattern/3-1-1.observer.js)
+
+[订阅-发布模式](../3.behavioral-pattern/3-1-2.observer-publish-subscribe.js)
 
 ### 1-3-2.迭代器模式
+
+[迭代器模式](../3.behavioral-pattern/3-2.iterator.js)
 
 ### 1-3-3.策略模式
 

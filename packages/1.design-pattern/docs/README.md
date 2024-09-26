@@ -126,4 +126,8 @@
 
 ### 1-3-10.中介者模式
 
+[中介者模式](../3.behavioral-pattern/3-10.mediator.js)
+
 ### 1-3-11.解释器模式
+
+[解释器模式](../3.behavioral-pattern/3-11.interpreter.js)

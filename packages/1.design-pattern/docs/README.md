@@ -108,6 +108,8 @@
 
 ### 1-3-5.职责链模式
 
+[职责链模式](../3.behavioral-pattern/3-5.responsibility-chain.js)
+
 ### 1-3-6.命令模式
 
 [命令模式](../3.behavioral-pattern/3-6.command.js)

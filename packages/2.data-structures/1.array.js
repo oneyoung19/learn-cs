@@ -21,7 +21,6 @@ class LinkedList {
     const random_num = arr[random_index]
     return random_num
   }
-  forEach () {}
 
   find(arr, target) {
     for (let i = 0; i < arr.length; i++) {

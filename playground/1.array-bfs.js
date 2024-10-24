@@ -34,3 +34,5 @@ function bfsRecursive(nodes, result = []) {
 
   return bfsRecursive(nextLevel, result) // 递归处理下一层
 }
+
+console.log(bfsRecursive(array))
